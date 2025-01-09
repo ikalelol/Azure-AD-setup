@@ -75,7 +75,7 @@ New Forest Setup
 ### 6. Join Client VM to the Domain
 - Verify both VMs are in the same VNet and subnet.
 - VNet Topology
-[image](https://github.com/user-attachments/assets/bd776c65-e5c6-422f-bc16-09ecfcd45178)
+![image](https://github.com/user-attachments/assets/bd776c65-e5c6-422f-bc16-09ecfcd45178)
 
 - From the Client VM:
   - Login via RDP.
