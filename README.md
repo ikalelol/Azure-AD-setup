@@ -36,7 +36,7 @@ VM Overview
 #### Client VM
 - Create a Windows 10 VM in the same resource group and virtual network (VNet) as the DC.
 
-- [image](https://github.com/user-attachments/assets/489a7825-507b-48fd-8e4b-57dc44c591c8)
+- ![image](https://github.com/user-attachments/assets/489a7825-507b-48fd-8e4b-57dc44c591c8)
 
 ### 2. Network Configuration
 - Assign a static private IP to the Domain Controller for consistent connectivity.
