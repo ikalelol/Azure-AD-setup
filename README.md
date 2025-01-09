@@ -27,12 +27,15 @@ This repository documents the process of setting up and managing an Active Direc
   Password: NoTSecU3rPa$
   ```
 - Use default settings.
-![DC VM Setup](![image](https://github.com/user-attachments/assets/571462b1-85f4-4750-9e8c-6f89d3964d3b))
-![VM Overview](![image](https://github.com/user-attachments/assets/4bbc6090-951d-4dc3-8b68-7fe42fa857a5))
+DC VM Setup
+![image](https://github.com/user-attachments/assets/571462b1-85f4-4750-9e8c-6f89d3964d3b))
+VM Overview
+![image](https://github.com/user-attachments/assets/4bbc6090-951d-4dc3-8b68-7fe42fa857a5))
 
 #### Client VM
 - Create a Windows 10 VM in the same resource group and virtual network (VNet) as the DC.
-![Client VM Setup](![image](https://github.com/user-attachments/assets/489a7825-507b-48fd-8e4b-57dc44c591c8))
+- Client VM Setup
+- [image](https://github.com/user-attachments/assets/489a7825-507b-48fd-8e4b-57dc44c591c8))
 
 ### 2. Network Configuration
 - Assign a static private IP to the Domain Controller for consistent connectivity.
