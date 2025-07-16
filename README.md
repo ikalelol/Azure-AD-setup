@@ -2,7 +2,6 @@
 
 This repository documents the process of setting up and managing an Active Directory (AD) environment within Azure Virtual Machines (VMs). This project is a step-by-step guide, including screenshots and insights based on personal experience.
 
----
 
 ## Overview
 
@@ -14,7 +13,6 @@ This repository documents the process of setting up and managing an Active Direc
   - Remote Desktop Protocol (RDP)
   - PowerShell
 
----
 
 ## Deployment Steps
 
@@ -28,9 +26,11 @@ This repository documents the process of setting up and managing an Active Direc
   ```
 - Use default settings.
 DC VM Setup
+
 ![image](https://github.com/user-attachments/assets/571462b1-85f4-4750-9e8c-6f89d3964d3b)
 
 VM Overview
+
 ![image](https://github.com/user-attachments/assets/4bbc6090-951d-4dc3-8b68-7fe42fa857a5)
 
 #### Client VM
@@ -93,7 +93,6 @@ Join Domain
   - Restrict disabling the firewall and antivirus.
   - Disable auto-run from USB devices.
 
----
 
 ## Tips and Insights
 - **Segregation of Duties**: Use separate accounts for administrative tasks (`Kale_Admin`) and everyday use (`Kale`).
