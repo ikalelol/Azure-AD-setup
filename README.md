@@ -99,13 +99,11 @@ Join Domain
 - **Segregation of Duties**: Use separate accounts for administrative tasks (`Kale_Admin`) and everyday use (`Kale`).
 - **Cleanup**: Delete Azure resources after testing to avoid unnecessary charges.
 
----
 
 ## Reference Repositories
 - [Joeljjoseph1998/configure-ad](https://github.com/joeljjoseph1998/configure-ad)
 - [Xinloiazn/configure-ad](https://github.com/Xinloiazn/configure-ad)
 
----
 
 ## Acknowledgments
 This project helped me deepen my understanding of Active Directory and its implementation within Azure environments. It's been valuable for both personal learning and professional use.
